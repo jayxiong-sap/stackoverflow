@@ -3,6 +3,7 @@
 2. [Libraries used](#library)
 3. [File Descriptions](#files)
 4. [Summary of the analysis](#summary)
+5. [Licensing, authors, acknowledgements](#licensing)
 
 ## 1. Motivation <a name="motivation"></a>
 
@@ -17,7 +18,7 @@ The following Python libraries are used in this project,
 - seaborn
 - sklearn (ColumnTransformer, OneHotEncoder, train_test_split, LinearRegression, metrics)
 
-## 3. Files Descriptions <a name="files"></a>
+## 3. Files descriptions <a name="files"></a>
 
 - README.md
   The readme file of the project, introducing the motivation of the project, the libraries used, files included and a summary of the analysis results
@@ -38,4 +39,7 @@ The following Python libraries are used in this project,
     Capitol Hill, Cascade and Queen Anne. Bungalows are highly rated at neighbourhood areas like Ballard and Queen Anne
   - Other than "Other neighborhoods", the Capitol Hill and Downtown neighbourhood groups have the highest number of properties
 
-  Finally, I believe the above features will impact price too, so I used them to predict the price. 
+  In addition, I believe the above features will impact price too, so I used them to predict the price. 
+  
+## 5. Licensing, authors, acknowledgements <a name="licensing"></a> 
+  Must give credit to Airbnb for the data. You can find the licensing for the data and other descriptive information at the Kaggle link available [here]( https://www.kaggle.com/airbnb/seattle/data). 
