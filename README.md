@@ -27,7 +27,7 @@ The following Python libraries are used in this project,
 4. Summary of the analysis
   I believe property types, number of bedrooms, neighbourhood groups, rating socres are correlated to each other in some way.  
   
-  A few findings here,
+    A few findings here,
   - 1 bedroom is the highest number of availalbe bedroom type, across all types of properties
   - Most property types have high rating scores (between 90 and 100). Apartment has the widest range of review score ratings. House has the second widest
     range of review score ratings. 
@@ -35,4 +35,4 @@ The following Python libraries are used in this project,
     Capitol Hill, Cascade and Queen Anne. Bungalows are highly rated at neighbourhood areas like Ballard and Queen Anne
   - Other than "Other neighborhoods", the Capitol Hill and Downtown neighbourhood groups have the highest number of properties
 
-  In addition, I believe the above features will impact price too, so I used them to predict the price. 
+    Finally, I believe the above features will impact price too, so I used them to predict the price. 
